@@ -17,6 +17,7 @@ A medical care platform to book a slot for covid related treatment. It features 
 6.Ritesh Mohan
 7.Kumar Abhinav
 
+#Demo App Link https://magical-hamster-a3b844.netlify.app
 
  #App Screenshots
 ![01](https://user-images.githubusercontent.com/96721331/162231262-8f135805-c2d2-4700-9308-fb782005ace1.png)
