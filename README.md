@@ -27,3 +27,4 @@ A medical care platform to book a slot for covid related treatment. It features 
 ![05](https://user-images.githubusercontent.com/96721331/162231613-f69e3530-7ffc-47dc-9408-a9edee45943a.png)
 ![06](https://user-images.githubusercontent.com/96721331/162231630-e9838cdc-729d-4722-acbf-8031824bf42c.png)
 ![07](https://user-images.githubusercontent.com/96721331/162231684-f262d79c-67c5-427b-b05c-db1347b6cb85.png)
+![8](https://user-images.githubusercontent.com/96721331/162580569-4d1774cf-26eb-4b71-8fdf-1ff80bac091b.png)
